@@ -27,6 +27,8 @@ I love bridging **research & engineering**, and translating experimental ML meth
 ---
 
 ## 🚀 Featured Projects
+- 🏆 Magical Comic Stories (NVIDIA X Vercel Hackathon Winner)
+  AI-powered educational comic story generator using Next.js, Vercel, NVIDIA Nemotron, and Stable Diffusion XL. Won 2nd place.
 - 🩺 **[PCOS Detection using GANs + Few-Shot Learning](#)**  
    Improved low-data accuracy by **30%** with GANs, FSL, and RAG-based enhancements.  
 
